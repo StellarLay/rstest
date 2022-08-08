@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rstest/static/css/main.bfc82fdf.css",
+    "main.js": "/rstest/static/js/main.d4fad99b.js",
+    "static/media/laptopmac.png": "/rstest/static/media/laptopmac.2c4084b2bd8f94668486.png",
+    "static/media/table.png": "/rstest/static/media/table.af36ba1fc00d810f79d7.png",
+    "static/media/item-4.svg": "/rstest/static/media/item-4.175ac75b3412e64cc06e1c5b4dd2911e.svg",
+    "static/media/item-3.svg": "/rstest/static/media/item-3.797873e19f4dca0397f52bdbbdf73731.svg",
+    "static/media/item-6.svg": "/rstest/static/media/item-6.29ccddfb6e31a95c301a3963b978e9ae.svg",
+    "static/media/item-1.svg": "/rstest/static/media/item-1.06c6566d411a52686141f396d3089265.svg",
+    "static/media/item-2.svg": "/rstest/static/media/item-2.ab2332036ec09f8aacd8182a95cb512e.svg",
+    "static/media/question.svg": "/rstest/static/media/question.b0d43cf60764f1da98e7c74f93ed9fde.svg",
+    "static/media/item-5.svg": "/rstest/static/media/item-5.630747989ce7bed79df7f88d633466f3.svg",
+    "index.html": "/rstest/index.html",
+    "main.bfc82fdf.css.map": "/rstest/static/css/main.bfc82fdf.css.map",
+    "main.d4fad99b.js.map": "/rstest/static/js/main.d4fad99b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc82fdf.css",
+    "static/js/main.d4fad99b.js"
+  ]
+}
